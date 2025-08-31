@@ -114,7 +114,3 @@ if __name__ == "__main__":
     root.mainloop()
 # Start the game: create main window and run the Tkinter event loop
 
-
-
-
-
